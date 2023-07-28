@@ -15,8 +15,8 @@
         <activity
             android:name=".MainActivity"
             android:exported="true"
-            android:icon="@drawable/img_1"
-            android:label="Lab5_B1"
+            android:icon="@drawable/ic_1"
+            android:label="B1+B2"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -27,8 +27,8 @@
         <activity
             android:name=".MainActivity2"
             android:exported="true"
-            android:icon="@drawable/img_2"
-            android:label="Lab5_B2"
+            android:icon="@drawable/ic_3"
+            android:label="B3"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
